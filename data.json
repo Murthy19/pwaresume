@@ -1,0 +1,55 @@
+{"details":{
+"image":"img1.jpg",
+"name":"Satya",
+"phoneno":"+91-9976543821" ,
+"email":"mpathikayala@gmail.com",
+"Address":"Mic college kanchikacherla"
+},
+"career":{
+  "info":"To pursue a challenging career and to be a part of progressive organisation that gives a scope to enhance my skills towards growth ."
+},
+"education":[{
+  "qualification":"B.Tech",
+  "institute":"MIC college of technology",
+  "year":"2016-2020",
+  "percentage":"85%"
+},
+
+{
+  "qualification":"Intermediate",
+  "institute":"Sri Chaitanya Jr.college",
+  "year":"2014-2016",
+  "percentage":"89%"
+},
+{
+  "qualification":"SSC",
+  "institute":"St.John's School",
+  "year":"2014",
+  "percentage":"95%"
+}
+],
+"skills":[{
+  "title":"ProgrammingLanguages",
+  "info":["C,C++,Python,Java,R"]
+
+},
+
+{
+  "title":"DataBases",
+  "info":["SQl,MySQL,Oracle"]
+},
+
+{
+  "title":"OperatingSystems",
+  "info":["Windows,Ubuntu,Linux,Dos"]
+}
+
+],
+"achievements":[
+{"info":"Achieve 1st prize in groupdiscussion."
+},
+  {
+    "info":"Certification in national hindhi talented examination."
+  }
+]
+}
